@@ -8,9 +8,6 @@ body {
 }
 
 .modal {
-   background-image: url("images/whiskey.jpg");
-}
-
-form {
-    background-image: url("images/form.jpg");
+   background-image: url("images/images1.jpg");
+   /* background-color: rgba(0,0,0,.0001) !important;*/
 }
