@@ -1,8 +1,16 @@
 body {
-    background-image: url("images/whiskey.jpg");
+    background-image: url("images/images.jpg");
     
 }
 
 .quotes, .features {
     color: #fff;
+}
+
+.modal {
+   background-image: url("images/whiskey.jpg");
+}
+
+form {
+    background-image: url("images/form.jpg");
 }
